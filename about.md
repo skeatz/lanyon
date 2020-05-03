@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+nav-order: 2
 ---
 
 <p class="message">
